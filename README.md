@@ -1,5 +1,4 @@
 # 📄 Text Summarization Dokumen UU Pelindungan Data Pribadi Menggunakan LSA
-\
 
 > 📚 Proyek Text Mining yang menerapkan metode **Text Summarization** pada dokumen **Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)** menggunakan algoritma **Latent Semantic Analysis (LSA)** dengan pendekatan **Extractive Summarization**. Hasil ringkasan dievaluasi menggunakan metrik **ROUGE** dan **Compression Rate**.
 
@@ -132,5 +131,3 @@ Evaluasi dilakukan menggunakan:
 📍 Institut Teknologi Nasional Malang
 
 ---
-
-⭐ Jika proyek ini bermanfaat, jangan lupa berikan **Star** pada repository ini! ⭐
